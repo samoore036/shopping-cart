@@ -6,7 +6,7 @@ const ContactPage = () => {
             <div className='contact-div'>
                 <div className='contact-links'>
                     <a href='https://github.com/samoore036'><img src={'./icons/github.png'} alt='Github Link'/></a>
-                    <a href='https://github.com/samoore036'><img src={'./icons/code-json.png'} alt='Code Link'/></a>
+                    <a href='https://github.com/samoore036/shopping-cart'><img src={'./icons/code-json.png'} alt='Code Link'/></a>
                     <a href=''><img src={'./icons/email.png'} alt='Email Link'/></a>
                     <a href=''><img src={'./icons/instagram.png'} alt='Instagram Link'/></a>
                 </div>
