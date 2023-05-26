@@ -16,10 +16,6 @@ const quotes = [
         author: 'Rumi'
     },
     {
-        quote: 'One does not attain everything he wishes for. Winds blow counter to what the ships desire.',
-        author: 'Al-Mutanabbi'
-    },
-    {
         quote: 'I wish I could show you...the astonishing light of your own being.',
         author: 'Hafez'
     },
